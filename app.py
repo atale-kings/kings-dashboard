@@ -41,8 +41,7 @@ with col_b:
 start_str = start.strftime("%Y-%m-%d")
 end_str = end.strftime("%Y-%m-%d")
 
-with st.spinner("Signing in to Google..."):
-    creds = get_credentials()
+creds = get_credentials()
 
 # ===========================================================================
 # GA4 SECTION
