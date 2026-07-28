@@ -25,7 +25,7 @@ st.set_page_config(page_title="Kings Research Weekly Report", layout="wide")
 # ---------------------------------------------------------------------------
 # SETTINGS -- edit these two values for your site
 # ---------------------------------------------------------------------------
-GA4_PROPERTY_ID = "REPLACE_WITH_YOUR_GA4_PROPERTY_ID"   # e.g. "123456789"
+GA4_PROPERTY_ID = "385070240"   # e.g. "123456789"
 GSC_SITE_URL = "https://www.kingsresearch.com/"          # exact GSC property URL
 INDEXING_FILE = "indexing_status.csv"
 # ---------------------------------------------------------------------------
